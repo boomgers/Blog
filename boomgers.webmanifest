@@ -7,20 +7,19 @@
 "display": "browser",
 "orientation": "portrait",
 "start_url": "https://boomgers.blog",
-"lang": "es-MX",
 "icons": [
 {
-"src": "https://static.tumblr.com/ragfbpc/LPnryzh8w/android-chrome-192x192.png",
+"src": "https://static.tumblr.com/ragfbpc/y8As36028/android-chrome-192x192.png",
 "sizes": "192x192",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/zy2ryzh9e/android-chrome-256x256.png",
+"src": "https://static.tumblr.com/ragfbpc/6jms3601l/android-chrome-256x256.png",
 "sizes": "256x256",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/DlEryzha6/android-chrome-512x512.png",
+"src": "https://static.tumblr.com/ragfbpc/eYSs3601d/android-chrome-512x512.png",
 "sizes": "512x512",
 "type": "image/png"
 }
