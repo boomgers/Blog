@@ -2,11 +2,11 @@
 "name": "Boomgers",
 "short_name": "Boomgers",
 "description": "Boomgers",
-"background_color": "#101F31",
-"theme_color": "#101F31",
+"background_color": "#101F2A",
+"theme_color": "#101F2A",
 "display": "browser",
 "orientation": "portrait",
-"start_url": "https://boomgers.com",
+"start_url": "https://boomgers.blog",
 "lang": "es-MX",
 "icons": [
 {
