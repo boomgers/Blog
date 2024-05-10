@@ -2,55 +2,55 @@
 "name": "Boomgers·Blog",
 "short_name": "Boom·Blog",
 "description": "Boomgers·Blog",
-"background_color": "#162514",
-"theme_color": "#162514",
+"background_color": "#0C1A2D",
+"theme_color": "#0C1A2D",
 "display": "standalone",
 "orientation": "portrait",
 "start_url": "https://boomgers.blog",
 "lang": "es-MX",
 "icons": [
 {
-"src": "https://static.tumblr.com/ragfbpc/SFlsd8pyb/app-36x36.png",
+"src": "app-36x36.png",
 "sizes": "36x36",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/5rjsd8pz6/app-48x48.png",
+"src": "app-48x48.png",
 "sizes": "48x48",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/En1sd8q1i/app-72x72.png",
+"src": "app-72x72.png",
 "sizes": "72x72",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/SqMsd8q2g/app-96x96.png",
+"src": "app-96x96.png",
 "sizes": "96x96",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/z22sd8q3x/app-144x144.png",
+"src": "app-144x144.png",
 "sizes": "144x144",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/ibXsd8q5p/app-192x192.png",
+"src": "app-192x192.png",
 "sizes": "192x192",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/TgFsd8q6r/app-256x256.png",
+"src": "app-256x256.png",
 "sizes": "256x256",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/2kqsd8q8u/app-384x384.png",
+"src": "app-384x384.png",
 "sizes": "384x384",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/ragfbpc/xl2sd8q9s/app-512x512.png",
+"src": "app-512x512.png",
 "sizes": "512x512",
 "type": "image/png"
 }
