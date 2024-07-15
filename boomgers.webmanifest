@@ -1,12 +1,12 @@
 {
-"name": "Boomgers·Blog",
-"short_name": "Boom·Blog",
-"description": "Boomgers·Blog",
+"name": "Boomgers·Pósteres",
+"short_name": "Boom·Póster",
+"description": "Boomgers·Pósteres",
 "background_color": "#10131C",
 "theme_color": "#10131C",
 "display": "standalone",
 "orientation": "portrait",
-"start_url": "https://boomgers.blog",
+"start_url": "https://boomgers.net",
 "lang": "es-MX",
 "icons": [
 {
